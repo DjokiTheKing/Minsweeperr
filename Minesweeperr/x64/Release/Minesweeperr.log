@@ -1,0 +1,5 @@
+﻿  Game.cpp
+  main.cpp
+main.obj : error LNK2005: "int winh" (?winh@@3HA) already defined in Game.obj
+main.obj : error LNK2005: "int winw" (?winw@@3HA) already defined in Game.obj
+sfml-graphics-s.lib(RenderStates.cpp.obj) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

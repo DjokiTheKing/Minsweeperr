@@ -1,0 +1,148 @@
+﻿  Game.cpp
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(163,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(163,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(169,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(169,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(173,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(173,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(177,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(177,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(181,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(181,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(185,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(185,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(189,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(189,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(193,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(193,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(197,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(197,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(201,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(201,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(205,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(205,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(209,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(209,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(213,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(213,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(219,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Windows 10\source\repos\Minesweeperr\Minesweeperr\Game.cpp(219,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  Generating code
+  2 of 279 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Minesweeperr.vcxproj -> C:\Users\Windows 10\source\repos\Minesweeperr\Release\Minesweeperr.exe
